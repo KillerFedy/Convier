@@ -16,7 +16,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d6f8bb-d498-4cea-b3d9-d1421c6ca13d" name="Default Changelist" comment="" />
+    <list default="true" id="69d6f8bb-d498-4cea-b3d9-d1421c6ca13d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Convier/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Convier/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Convier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Convier/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraLook.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1jta10E2MnXgegbyQTtDZLwbzHM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,6 +87,7 @@
       <workItem from="1604625978810" duration="484000" />
       <workItem from="1604626536339" duration="142000" />
       <workItem from="1604626729884" duration="88000" />
+      <workItem from="1604626845524" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="Start Project">
       <created>1604626116643</created>
@@ -85,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604626372973</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start project">
+      <created>1604626903353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604626903353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Player Controller">
+      <created>1604629488856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604629488856</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,13 +152,15 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Start Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Project" />
+    <MESSAGE value="Start project" />
+    <MESSAGE value="Player Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player Controller" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="838" y="418" key="Github.ShareDialog" timestamp="1604625993343">
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1604626922084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604625993343" />
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604626922084" />
     <state x="691" y="226" key="Github.UntrackedFilesDialog" timestamp="1604626035353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -135,10 +169,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604626815084" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604626382923">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604629503286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604626382923" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604629503286" />
     <state x="824" y="255" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604626346853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
